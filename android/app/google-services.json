@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1087742774747",
+    "project_id": "liz-library-dev",
+    "storage_bucket": "liz-library-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087742774747:android:5fb1b534f00ee086772bfe",
+        "android_client_info": {
+          "package_name": "com.example.liz_library_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087742774747-ft0t2flm5a2qdt5kp1oh690h51l4n21k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCValSGAeHSB89skEn2ZMcou0lTNqHI1Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087742774747-ft0t2flm5a2qdt5kp1oh690h51l4n21k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087742774747-5gfa53icum9kdjcg6vton37ki743j30m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lizLibraryMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
